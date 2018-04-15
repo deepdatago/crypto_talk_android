@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Telegram messenger for Android
 
 [Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
@@ -30,3 +31,6 @@ Import the root folder into your IDE (tested on Android Studio), then run projec
 ### Localization
 
 We moved all translations to https://translations.telegram.org/en/android/. Please use it.
+=======
+# crypto_talk_android
+>>>>>>> d7addde932e0654e45afac212bb1a2379b0ff902
